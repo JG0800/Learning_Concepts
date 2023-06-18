@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Casting/Casting.iml" filepath="$PROJECT_DIR$/Casting/Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeyListener/KeyListener.iml" filepath="$PROJECT_DIR$/KeyListener/KeyListener.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learning_Concepts.iml" filepath="$PROJECT_DIR$/Learning_Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multythreading/Multythreading.iml" filepath="$PROJECT_DIR$/Multythreading/Multythreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objects/Objects.iml" filepath="$PROJECT_DIR$/Objects/Objects.iml" />
     </modules>
   </component>
